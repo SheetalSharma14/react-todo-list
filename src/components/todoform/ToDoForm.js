@@ -1,13 +1,13 @@
 import React from 'react'
-import './AddToDo.css'
+import './ToDoForm.css'
 
-const AddToDo = () => {
+const ToDoForm = () => {
     return (
-        <div>
+        <div className='Add-To-Do'>
           <input type='text'></input>
           <button>Add Item</button>
         </div>
     );
 }
 
-export default AddToDo;
+export default ToDoForm;
