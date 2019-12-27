@@ -1,0 +1,14 @@
+input, button{
+    font-size: 12px;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+button{
+    margin-left: 10px;
+}
+
+.Add-To-Do{
+   align-content: space-between;
+   padding-left: 20px;
+}
